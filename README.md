@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://faq-accordion-by-chizoba.netlify.app/)
+- Live Site URL: [Live site](https://faq-accordion-by-chizoba.netlify.app/)
 
 ### Built with
 
